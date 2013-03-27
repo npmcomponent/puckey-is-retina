@@ -1,3 +1,3 @@
 module.exports = function() {
-	return window.devicePixelRatio || 1 > 1;
+	return (window.devicePixelRatio || 1) > 1;
 };
