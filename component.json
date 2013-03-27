@@ -1,0 +1,13 @@
+{
+  "name": "is-retina",
+  "repo": "puckey/is-retina",
+  "description": "Detects whether the device has a retina display.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
