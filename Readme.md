@@ -1,7 +1,6 @@
-
 # is-retina
 
-  Detects whether the device has a retina display.
+  Component: detect whether the device has a retina display.
 
 ## Installation
 
