@@ -1,0 +1,8 @@
+{
+  "name": "puckey-is-retina",
+  "description": "Detects whether the device has a retina display.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
